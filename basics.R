@@ -23,4 +23,4 @@ head(beaches)
 tail(beaches)
 summary(beaches)
 skim(beaches)
-
+# Class 1
