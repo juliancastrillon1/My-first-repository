@@ -23,3 +23,4 @@ head(beaches)
 tail(beaches)
 summary(beaches)
 skim(beaches)
+
