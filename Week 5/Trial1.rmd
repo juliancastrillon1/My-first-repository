@@ -7,6 +7,9 @@ date: '2022-03-30'
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+#Learning Git and R
+
+Creating a new Repository and cloning it
 
 ## R Markdown
 
