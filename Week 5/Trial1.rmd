@@ -10,6 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #Learning Git and R
 
 Creating a new Repository and cloning it
+When closing to R
 
 ## R Markdown
 
